@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/parallax/static/css/main.7acaea2f.css",
-    "main.js": "/parallax/static/js/main.07d3183d.js",
-    "index.html": "/parallax/index.html",
-    "main.7acaea2f.css.map": "/parallax/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/parallax/static/js/main.07d3183d.js.map"
+    "main.css": "/the-witcher3-parallax/static/css/main.a92de571.css",
+    "main.js": "/the-witcher3-parallax/static/js/main.38cb1355.js",
+    "static/media/layer-middle.png": "/the-witcher3-parallax/static/media/layer-middle.96d2c366d4d2ca9a9cf5.png",
+    "static/media/layer-ciri.png": "/the-witcher3-parallax/static/media/layer-ciri.80b14927405df043c587.png",
+    "static/media/layer-front.png": "/the-witcher3-parallax/static/media/layer-front.365644969e092e0bf93b.png",
+    "static/media/layer-yen.png": "/the-witcher3-parallax/static/media/layer-yen.f4379b2ca37ec1b1b8bd.png",
+    "static/media/layer-back.jpg": "/the-witcher3-parallax/static/media/layer-back.d4ed91a38ff9b8bea574.jpg",
+    "static/media/layer-gera.png": "/the-witcher3-parallax/static/media/layer-gera.384e42a9d927b5159886.png",
+    "index.html": "/the-witcher3-parallax/index.html",
+    "main.a92de571.css.map": "/the-witcher3-parallax/static/css/main.a92de571.css.map",
+    "main.38cb1355.js.map": "/the-witcher3-parallax/static/js/main.38cb1355.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.a92de571.css",
+    "static/js/main.38cb1355.js"
   ]
 }
