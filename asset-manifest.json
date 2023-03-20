@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parallax/static/css/main.7acaea2f.css",
+    "main.js": "/parallax/static/js/main.07d3183d.js",
+    "index.html": "/parallax/index.html",
+    "main.7acaea2f.css.map": "/parallax/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/parallax/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
