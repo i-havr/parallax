@@ -1,11 +1,11 @@
-import './App.css';
-
 import { Mousewheel, Parallax } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 import { image1 } from 'img/screen-1';
 import { image2 } from 'img/screen-2';
 import { image3 } from 'img/screen-3';
+
+import './App.css';
 
 import 'swiper/css';
 import 'swiper/css/mousewheel';
@@ -38,11 +38,6 @@ export const App = () => {
           data-swiper-parallax="25%"
           style={{ backgroundImage: `url(${image1.layerMiddle})` }}
         ></div>
-        <canvas
-          className="particles slider__layer"
-          data-swiper-parallax="18%"
-          data-color="#BE9164"
-        ></canvas>
         <div
           className="slider__layer"
           data-swiper-parallax="14%"
@@ -72,11 +67,7 @@ export const App = () => {
             backgroundImage: `url(${image2.layerYen})`,
           }}
         ></div>
-        <canvas
-          className="particles slider__layer"
-          data-swiper-parallax="20%"
-          data-color="#525A6D"
-        ></canvas>
+
         <div
           className="slider__layer"
           data-swiper-parallax="14%"
@@ -108,11 +99,7 @@ export const App = () => {
             backgroundImage: `url(${image3.layerCiri})`,
           }}
         ></div>
-        <canvas
-          className="particles slider__layer"
-          data-swiper-parallax="25%"
-          data-color="#938086"
-        ></canvas>
+
         <div
           className="slider__layer"
           data-swiper-parallax="16%"
