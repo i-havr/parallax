@@ -1,8 +1,8 @@
 {
-  "name": "the-witcher-3-the-parallax-effect",
+  "name": "the-witcher3-parallax",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://i-havr.github.io/parallax/",
+  "homepage": "https://i-havr.github.io/the-witcher3-parallax/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",

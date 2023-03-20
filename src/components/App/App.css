@@ -1,0 +1,24 @@
+.slider__layer {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  will-change: transform;
+}
+.slider__layer::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  box-shadow: inset 0 0 250px rgb(0 0 0 / 0.3);
+}
+.slider__item {
+  overflow: hidden;
+}
+.slider__wrapper {
+  will-change: transform;
+  transform-style: preserve-3d;
+}
